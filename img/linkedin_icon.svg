@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="_14-linkedin">
+        <g transform="matrix(0.748754,0,0,0.698687,0,1.00239)">
+            <path d="M40,10.019C40,4.489 35.811,0 30.651,0L9.349,0C4.189,0 0,4.489 0,10.019L0,29.981C0,35.511 4.189,40 9.349,40L30.651,40C35.811,40 40,35.511 40,29.981L40,10.019Z" style="fill:rgb(0,127,181);"/>
+        </g>
+        <g transform="matrix(0.748754,0,0,0.698687,0,1.00239)">
+            <rect x="5.619" y="14.712" width="5.644" height="20.45" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.748754,0,0,0.698687,0,1.00239)">
+            <path d="M30.125,14.712C25.962,13.125 22.95,15.813 21.662,17.313L21.662,14.712L16.037,14.712L16.037,35.163L21.662,35.163L21.662,24.375C21.63,23.008 22.13,21.681 23.056,20.675C23.59,20.046 24.363,19.668 25.188,19.631C26.109,19.614 26.999,19.973 27.65,20.625C28.349,21.355 28.731,22.333 28.713,23.344L28.713,35.163L35.063,35.163L35.063,22.5C35.063,22.5 35.769,16.825 30.125,14.712Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(0.748754,0,0,0.698687,0,1.00239)">
+            <circle cx="8.438" cy="8.363" r="3.525" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

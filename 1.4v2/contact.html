@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="shortcut icon" href="http://wikipedia.com/static/favicon/wikipedia.ico">
+            <img src="img/200x70_placeholder.png" alt="aria-hidden">
+           <nav>
+             <ul role="menubar" type="square">
+                <li role="presentation">
+                    <a href="index.html" role="menuitem">Home</a>
+                </li>
+                <li role="presentation">
+                    <a href="about.html" role="menuitem">About Me</a>
+                </li>
+                <li role="presentation">
+                    <a href="contact.html" role="menuitem">Contact</a>
+                </li>
+            </ul>
+        </nav>
+</head>
+<script src="js/tota11y.min.js"></script>
+
+<body> 
+    <header>
+        <h1>Contact</h1>
+    </header>
+    <main>
+        <p>
+        <h2><a role="presentation" href="mailto:jlt717@gmail.com">Contact me</a></h2>
+        </p>
+        <nav>
+            12345 Main Street<br>Anywhere, Texas<br>56789 <br>
+            <p>
+                <a role="presentation" href="tel:+5555555555"> (555)555-5555</a> <br>
+            </p>
+            <p><a role="presentation" href="mailto:jlt717@gmail.com">jlt717@gmail.com</a></p>
+        </nav>
+    </main>
+    <footer>
+    <form role="form" action="" method="post" id="contact-form">
+        <label class="standard-label" for="contact-email">E-mail: </label>
+        <input type="email" id="contact-email" required>
+
+        <label class="standard-label" for="contact-telephone">Telephone: </label>
+        <input type="tel" pattern="\d{3}[\-]\d{3}[\-]\d{4}" id="contact-telephone">
+
+        <label class="standard-label" for="contact-message">Message: </label>
+        <textarea maxlength="240" id="contact-message" required></textarea>
+
+        <input type="submit" value="Send message">
+    </form>
+</footer>
+</body>
+
+</html>
